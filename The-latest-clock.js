@@ -29,3 +29,5 @@ const latestClock = (a, b, c, d) => {
   
   return allCombos.sort().at(-1) || '';
 }
+
+// or
